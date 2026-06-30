@@ -1,0 +1,15 @@
+{
+  "id": "shinku-test-bundle",
+  "name": "Shinku (Test Character)",
+  "author": "Antigravity",
+  "version": "1.0.0",
+  "description": "A test character to verify the cloud marketplace.",
+  "images": {},
+  "hash": "test-hash",
+  "thumbnailState": "idle",
+  "createdAt": 1782811534816,
+  "characterName": "Shinku",
+  "characterTips": "A dummy test character.",
+  "personalityPrompt": "You are a test character.",
+  "themeColor": "#ff0044"
+}

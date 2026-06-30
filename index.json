@@ -8,5 +8,15 @@
     "hash": "e1d93c979a6258228cbe5c542a17efaafe1ac370777be5df7de2eb89b8801a01",
     "thumbnailState": "idle",
     "createdAt": 1782811534815
+  },
+  {
+    "id": "shinku-test-bundle",
+    "name": "Shinku (Test Character)",
+    "author": "Antigravity",
+    "version": "1.0.0",
+    "description": "A test character to verify the cloud marketplace.",
+    "hash": "test-hash",
+    "thumbnailState": "idle",
+    "createdAt": 1782811534816
   }
 ]
