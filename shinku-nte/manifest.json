@@ -2,8 +2,8 @@
   "id": "shinku-nte",
   "name": "Shinku (NTE)",
   "author": "Antigravity",
-  "version": "1.0.2",
-  "description": "Shinku from Neverness to Everness (NTE) with fully animated programmatic sprites (waddling, squishing, thought bubbles)!",
+  "version": "1.0.3",
+  "description": "Shinku from Neverness to Everness (NTE) with true AI-generated frame-by-frame animation poses!",
   "images": {
     "idle": "idle.png",
     "active": "active.png",

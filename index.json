@@ -13,8 +13,8 @@
     "id": "shinku-nte",
     "name": "Shinku (NTE)",
     "author": "Antigravity",
-    "version": "1.0.2",
-    "description": "Shinku from Neverness to Everness (NTE) with full custom pixel-perfect sprites.",
+    "version": "1.0.3",
+    "description": "Shinku from Neverness to Everness (NTE) with true AI-generated frame-by-frame animation poses!",
     "hash": "09931f65d7d4521efe67ee11dfb20b2b7c7482507cc9ca979c440755f0f0b5bc",
     "thumbnailState": "idle",
     "createdAt": 1782816365000
