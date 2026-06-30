@@ -10,13 +10,13 @@
     "createdAt": 1782811534815
   },
   {
-    "id": "shinku-test-bundle",
-    "name": "Shinku (Test Character)",
+    "id": "shinku-nte",
+    "name": "Shinku (NTE)",
     "author": "Antigravity",
     "version": "1.0.0",
-    "description": "A test character to verify the cloud marketplace.",
-    "hash": "test-hash",
+    "description": "Shinku from Neverness to Everness (NTE) with full custom pixel-perfect sprites.",
+    "hash": "7e63c6c7d784599e2cf0bdb3a37cbdb5e1b9d3b9551529d2eaac02d685f71d20",
     "thumbnailState": "idle",
-    "createdAt": 1782811534816
+    "createdAt": 1782816365000
   }
 ]

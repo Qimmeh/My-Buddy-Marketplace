@@ -1,0 +1,26 @@
+{
+  "id": "shinku-nte",
+  "name": "Shinku (NTE)",
+  "author": "Antigravity",
+  "version": "1.0.0",
+  "description": "Shinku from Neverness to Everness (NTE) with full custom pixel-perfect sprites.",
+  "images": {
+    "idle": "idle.png",
+    "active": "active.png",
+    "ready": "ready.png",
+    "thinking": "thinking.png",
+    "walking-left": "walking-left.png",
+    "walking-left-2": "walking-left-2.png",
+    "walking-right": "walking-right.png",
+    "walking-right-2": "walking-right-2.png",
+    "paused": "paused.png",
+    "dizzy": "dizzy.png"
+  },
+  "hash": "7e63c6c7d784599e2cf0bdb3a37cbdb5e1b9d3b9551529d2eaac02d685f71d20",
+  "thumbnailState": "idle",
+  "createdAt": 1782816365000,
+  "characterName": "Shinku",
+  "characterTips": "from Neverness to Everness (NTE)",
+  "personalityPrompt": "You are Shinku from NTE. You are confident, cool, and a bit mischievous.",
+  "themeColor": "#e5004f"
+}
