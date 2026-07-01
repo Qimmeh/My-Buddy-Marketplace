@@ -18,5 +18,15 @@
     "hash": "09931f65d7d4521efe67ee11dfb20b2b7c7482507cc9ca979c440755f0f0b5bc",
     "thumbnailState": "idle",
     "createdAt": 1782816365000
+  },
+  {
+    "id": "phoebi-ww-5a6b7c",
+    "name": "Phoebi",
+    "author": "Antigravity",
+    "version": "1.0.0",
+    "description": "Phoebi from Wuthering Waves, a cute chibi avatar with a big white hat and blonde hair.",
+    "hash": "7488f7b3c2a61111d4e76a1622345511b8492025816912384cc229046c82d3b",
+    "thumbnailState": "idle",
+    "createdAt": 1782906400000
   }
 ]

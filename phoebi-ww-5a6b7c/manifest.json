@@ -1,0 +1,31 @@
+{
+  "id": "phoebi-ww-5a6b7c",
+  "name": "Phoebi",
+  "author": "Antigravity",
+  "version": "1.0.0",
+  "description": "Phoebi from Wuthering Waves, a cute chibi avatar with a big white hat and blonde hair.",
+  "images": {
+    "active": "active.png",
+    "blink": "blink.png",
+    "dizzy": "dizzy.png",
+    "glance-left": "glance_left.png",
+    "glance-right": "glance_right.png",
+    "idle": "idle_v2.png",
+    "look-around": "look_around.png",
+    "paused": "paused.png",
+    "ready": "ready.png",
+    "thinking": "thinking.png",
+    "very-active": "very_active.png",
+    "walking-left": "walking_left.png",
+    "walking-left-2": "walking_left_2.png",
+    "walking-right": "walking_right_v2.png",
+    "walking-right-2": "walking_right_2_v3.png"
+  },
+  "hash": "7488f7b3c2a61111d4e76a1622345511b8492025816912384cc229046c82d3b",
+  "thumbnailState": "idle",
+  "createdAt": 1782906400000,
+  "characterName": "Phoebi",
+  "characterTips": "from Wuthering Waves",
+  "personalityPrompt": "You are Phoebi from Wuthering Waves. You are cheerful, curious, and love wearing your big white hat. Keep your responses lighthearted and helpful.",
+  "themeColor": "#f8f9fa"
+}
